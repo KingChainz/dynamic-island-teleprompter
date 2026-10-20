@@ -2,7 +2,7 @@
 
 [![Windhawk Mod](https://img.shields.io/badge/Windhawk-Mod-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://windhawk.net/)
 [![Direct2D / DirectWrite](https://img.shields.io/badge/Renderer-Direct2D%20%2F%20DirectWrite-68217A?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://learn.microsoft.com/en-us/windows/win32/direct2d/direct2d-portal)
-[![Author](https://img.shields.io/badge/Author-0xCh4inz-F5A623?style=for-the-badge)](https://github.com/0xCh4inz)
+[![Author](https://img.shields.io/badge/Author-0xCh4inz-F5A623?style=for-the-badge)](https://github.com/KingChainz)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](LICENSE)
 
 Un teleprónter flotante ultraligero y minimalista estilo **Dynamic Island** para Windows 10/11, desarrollado como mod nativo para **[Windhawk](https://windhawk.net/)** con renderizado acelerado por hardware mediante **Direct2D** y **DirectWrite**.
@@ -91,6 +91,6 @@ Si deseas compilar la biblioteca directamente usando el compilador de Windhawk:
 
 ## 📜 Licencia y Créditos
 
-- **Autor:** [0xCh4inz](https://github.com/0xCh4inz)
+- **Autor:** [0xCh4inz](https://github.com/KingChainz)
 - **Licencia:** Distribuido bajo la Licencia [MIT](LICENSE).
 - **Agradecimientos:** Inspirado en la arquitectura visual de [devcode90/Dynamic-Island-for-Windows](https://github.com/devcode90/Dynamic-Island-for-Windows).

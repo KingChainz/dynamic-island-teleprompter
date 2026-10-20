@@ -4,6 +4,8 @@
 // @description     Minimalist Dynamic Island teleprompter with spring animations and interactive shortcuts panel
 // @version         1.6.0
 // @author          0xCh4inz
+// @github          https://github.com/KingChainz
+// @homepage        https://github.com/KingChainz/dynamic-island-teleprompter
 // @include         explorer.exe
 // @compilerOptions -ld2d1 -ldwrite -lole32 -lshcore -ldwmapi
 // ==/WindhawkMod==
