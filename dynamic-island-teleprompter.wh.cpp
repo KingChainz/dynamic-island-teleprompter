@@ -10,6 +10,35 @@
 // @compilerOptions -ld2d1 -ldwrite -lole32 -lshcore -ldwmapi
 // ==/WindhawkMod==
 
+// ==WindhawkModReadme==
+/*
+# Dynamic Island Teleprompter
+
+A minimalist, hardware-accelerated **Dynamic Island** teleprompter for Windows 10/11, powered by **Direct2D** and **DirectWrite**.
+
+Positioned directly under your webcam, it allows you to read your script smoothly while maintaining natural eye contact during video meetings, presentations, and live recordings.
+
+### Key Features
+- **Spring Physics Animations:** Organic pill resizing based on a damped harmonic oscillator.
+- **Eye-Line Guide:** Subtly marks the optimal eye contact height aligned with your webcam lens.
+- **Click-Through Ghost Mode:** Press the yellow button or `Ctrl + Alt + G` to pass all mouse clicks directly through to background apps (`WS_EX_TRANSPARENT`).
+- **Interactive Shortcuts Drawer:** Press `Ctrl + Alt + X` to reveal an interactive sub-island where all shortcut rows are clickable.
+- **Mouse Wheel Speed Adjustment:** Change scrolling speed dynamically with the mouse wheel.
+- **Right-Click Paste:** Instantly replace the teleprompter text with clipboard content.
+- **Non-blocking Footprint:** Window physically shrinks to 220x62 px when collapsed, freeing screen space.
+
+### Shortcuts
+- `Ctrl + Alt + Space`: Play / Pause scrolling
+- `Ctrl + Alt + R`: Reset text to the top
+- `Ctrl + Alt + T`: Expand / Collapse island
+- `Ctrl + Alt + G`: Toggle Ghost Mode (Click-through)
+- `Ctrl + Alt + X`: Toggle Shortcuts Drawer
+- `Double Click` (<= 300ms): Reset text to the top
+- `Mouse Wheel`: Adjust reading speed
+- `Right Click`: Paste text from clipboard
+*/
+// ==/WindhawkModReadme==
+
 // ==WindhawkModSettings==
 /*
 - script_text: "¡Hola! Este es tu teleprónter estilo Dynamic Island.\n\nUbicado estratégicamente justo debajo de tu cámara web para mantener contacto visual natural en grabaciones y videollamadas.\n\nAtajos y controles:\n- Ctrl + Alt + Espacio: Pausar o reanudar el scroll.\n- Ctrl + Alt + T: Expandir o contraer la isla manualmente.\n- Ctrl + Alt + R: Reiniciar Texto al principio.\n- Ctrl + Alt + G: Modo Fantasma (clic a través hacia otras apps).\n- Ctrl + Alt + X: Ver panel de atajos.\n- Rueda del ratón: Regular velocidad de lectura."
