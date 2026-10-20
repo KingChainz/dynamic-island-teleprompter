@@ -1,0 +1,23 @@
+# Windhawk / C++ build outputs
+*.dll
+*.so
+*.dylib
+*.exe
+*.obj
+*.o
+*.a
+*.lib
+*.exp
+*.ilk
+*.pdb
+
+# Editor / IDE
+.vscode/
+.vs/
+*.swp
+*~
+.DS_Store
+Thumbs.db
+
+# Windhawk temporary files
+*.tmp
